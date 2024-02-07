@@ -42,7 +42,7 @@ function showMessage(response) {
     yesMessage.textContent = "R u valentines mine be";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/bread.jpg"
+    document.getElementsByClassName("image")[0].src = "images/bread.JPG"
  
     // Remove yes button
     document.getElementById("yesButton").remove();
